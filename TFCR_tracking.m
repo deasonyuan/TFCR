@@ -73,7 +73,7 @@ label1=imresize(label,[size(im1,1) size(im1,1)])*255;
 patch1=imresize(patch,[size(im1,1) size(im1,1)]);
 imd=[im1];
 
-%%%%%%%%%-----------Display First frame----------%%%%%%%%%
+%%%%%%%%%-----------Display First frame----------
 if display    
     figure(2);
     set(gcf,'Position',[200 300 480 320],'MenuBar','none','ToolBar','none');
