@@ -19,3 +19,7 @@ was submited to knowledge-based systems
 
 ## Contact
 Feedbacks and comments are welcome! Feel free to contact us via dyuanhit@gmail.com
+
+
+## Acknowledgements
+Some of the parameter settings and functions are borrowed from CREST(https://github.com/ybsong00/CREST-Release). 
