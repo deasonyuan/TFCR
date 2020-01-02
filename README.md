@@ -3,8 +3,8 @@ Learning Target-focusing Convolutional Regression Model for Visual Object Tracki
 
 was submited to knowledge-based systems
 
-##Usage
-###Tracking
+## Usage
+### Tracking
 1. Clone the code and unzip it in your computer.
 2. Download imagenet-vgg-verydeep-16 and matconvnet, put them into TFCR folder. 
 3. Prerequisites: Ubuntu 18, Matlab R2017a, GTX1080Ti, CUDA8.0.
