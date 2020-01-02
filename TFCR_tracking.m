@@ -221,7 +221,6 @@ for i=2:nFrame
         trainOpts.continue = true ;
         trainOpts.gpus = 1 ;
         trainOpts.prefetch = true ;
-        trainOpts.expDir = 'exp/update/' ;
         trainOpts.learningRate = 2e-8;        
         trainOpts.weightDecay= 1;
         trainOpts.numEpochs = 2;
