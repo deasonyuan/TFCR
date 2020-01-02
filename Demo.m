@@ -8,10 +8,8 @@ varargin(1,2)={struct('gpus', 1)};
 run ./matconvnet/matlab/vl_setupnn ;
 addpath ./matconvnet/examples ;
 
-opts.expDir = 'exp/' ;
-opts.dataDir = 'exp/data/' ;
+
 opts.modelType = 'tracking' ;
-opts.sourceModelPath = 'exp/models/' ;
 [opts, varargin] = vl_argparse(opts, varargin) ;
 
 % experiment setup
