@@ -13,8 +13,6 @@ opts.modelType = 'tracking' ;
 [opts, varargin] = vl_argparse(opts, varargin) ;
 
 % experiment setup
-opts.imdbPath = fullfile(opts.expDir, 'imdb.mat') ;
-opts.imdbStatsPath = fullfile(opts.expDir, 'imdbStats.mat') ;
 opts.vocEdition = '11' ;
 opts.vocAdditionalSegmentations = false ;
 
