@@ -4,7 +4,7 @@ opts.gpus=1;
 cold=true;
 prepareGPUs(opts,cold);
 
-net2=load('./exp/model/imagenet-vgg-verydeep-16.mat');
+net2=load('imagenet-vgg-verydeep-16.mat');
 net2.layers(31:end) = [];
 
 avgImg=net2.meta.normalization.averageImage;
