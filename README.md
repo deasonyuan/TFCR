@@ -7,10 +7,13 @@ The matlab code for TFCR tracker can be downloaded [here[google]](https://drive.
 
 ## Usage
 ### Tracking
-1. Clone the code and unzip it in your computer.
-2. Download imagenet-vgg-verydeep-16 and matconvnet, put them into TFCR folder. 
+1. If you want to compare our results in your experiment, just download the raw experimental results.
+2. If you want to test our experiment:
+   (1) Download the code and unzip it in your computer.
+   (2) Run the demo.m to test a tracking sequence using a default model.
+   (3) Using run_TFCR.m to test the performance on OTB, TC or UAV benchmark.
 3. Prerequisites: Ubuntu 18, Matlab R2017a, GTX1080Ti, CUDA8.0.
-4. Run the demo.m to test a tracking sequence using a default model.
+
 
 ## Results
 | Dataste | OTB2013 | OTB2015 | TC128 | UAV123 |
