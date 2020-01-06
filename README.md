@@ -15,7 +15,7 @@ The matlab code for TFCR tracker can be downloaded [here[google]](https://drive.
    2.2 Run the demo.m to test a tracking sequence using a default model.
    
    2.3 Using run_TFCR.m to test the performance on OTB, TC or UAV benchmark.
-3. Prerequisites: Ubuntu 18, Matlab R2017a, GTX1080Ti, CUDA8.0.
+3. Prerequisites: Ubuntu 18, Matlab R2017, GTX1080Ti, CUDA8.0.
 
 
 ## Results
