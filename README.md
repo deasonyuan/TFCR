@@ -1,7 +1,7 @@
 ## TFCR
 Learning Target-focusing Convolutional Regression Model for Visual Object Tracking
 
-was submited to Knowledge-Based Systems
+Knowledge-Based Systems
 
 The matlab code for TFCR tracker can be downloaded [here[google]](https://drive.google.com/open?id=1DCou-KvSj9joI68KwynWGIzJ3XY-lr06) or [here[baidu(password:nvb5)]](https://pan.baidu.com/s/1YFGCGy1SM4kt5bhWRihGGw).
 
@@ -24,6 +24,27 @@ The matlab code for TFCR tracker can be downloaded [here[google]](https://drive.
 | Prec.   | 0.871   | 0.876   | 0.776  | 0.715 |
 | AUC     | 0.671   | 0.665   | 0.564  | 0.512 | 
 
+
+## Citation
+If you use the code or dataset, please consider citing our paper.
+```
+@article{TFCR,
+  title={Learning target-focusing convolutional regression model for visual object tracking},
+  author=Yuan, Di and Nana, Fan and He, Zhenyu},
+  journal={Knowledge-Based Systems},
+  DOI={https://doi.org/10.1016/j.knosys.2020.105526},
+  year={2020}
+}
+
+@inproceedings{song-iccv17-CREST,
+    author={Song, Yibing and Ma, Chao and Gong, Lijun and Zhang, Jiawei and Lau, Rynson and Yang, Ming-Hsuan}, 
+    title={CREST: Convolutional Residual Learning for Visual Tracking}, 
+    booktitle={IEEE International Conference on Computer Vision},
+    pages={2555-2564},
+    year={2017}
+}
+
+```
 
 ## Contact
 Feedbacks and comments are welcome! Feel free to contact us via dyuanhit@gmail.com
