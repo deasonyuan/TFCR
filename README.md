@@ -1,5 +1,5 @@
 ## TFCR
-Learning Target-focusing Convolutional Regression Model for Visual Object Tracking
+Learning target-focusing convolutional regression model for visual object tracking
 
 Knowledge-Based Systems
 
