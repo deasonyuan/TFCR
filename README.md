@@ -26,7 +26,7 @@ The matlab code for TFCR tracker can be downloaded [here[google]](https://drive.
 
 
 ## Citation
-If you use the code or dataset, please consider citing our paper.
+If you find the code useful, please cite:
 ```
 @article{TFCR,
   title={Learning target-focusing convolutional regression model for visual object tracking},
